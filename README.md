@@ -22,6 +22,8 @@ https://github.com/aswinpaul/dpefe_2023
 
 robot：
 
+https://github.com/priorelli?tab=repositories
+
 https://priorelli.github.io/projects/
 
 https://priorelli.github.io/projects/6_dynamic_planning/
@@ -43,9 +45,9 @@ https://github.com/neurophysics-cnrsthales/unsupervised-target
 
 
 
-
-
 neural：
+
+https://github.com/NeuromorphicComputing/SoftHebb
 
 https://github.com/NACLab/ngc-learn
 
