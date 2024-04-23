@@ -39,7 +39,9 @@ hebbian   mnist bio：
 
 https://github.com/neurophysics-cnrsthales/unsupervised-target
 
+https://github.com/NeuromorphicComputing/stpn
 
+softhebb  https://github.com/NeuromorphicComputing/SoftHebb
 
 
 
@@ -88,6 +90,10 @@ RL
 dreamerv3   https://github.com/NM512/dreamerv3-torch
 
 https://juliareinforcementlearning.org/
+
+https://github.com/jonathan-laurent/AlphaZero.jl
+
+
 
 
 
