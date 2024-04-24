@@ -41,7 +41,9 @@ https://github.com/neurophysics-cnrsthales/unsupervised-target
 
 https://github.com/NeuromorphicComputing/stpn
 
-softhebb  https://github.com/NeuromorphicComputing/SoftHebb
+softhebb  
+
+https://github.com/NeuromorphicComputing/SoftHebb
 
 
 
@@ -57,14 +59,14 @@ https://github.com/NACLab/ngc-learn
 
 
 
-概率 易处理概率网络  bayesan code：
+概率 易处理概率网络  tractable probabilistic models   bayesan code：
 
 https://web.cs.ucla.edu/~guyvdb/code/
 
 https://github.com/UCLA-StarAI
 
 
-https://github.com/alcorreia/cm-tpm
+https://github.com/alcorreia/cm-tpm  VAE 
 
 https://github.com/ml-research/PWN
 
