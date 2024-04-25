@@ -61,6 +61,8 @@ https://github.com/NACLab/ngc-learn
 
 概率 易处理概率网络  tractable probabilistic models   bayesan code：
 
+https://github.com/gengala/pic
+
 https://web.cs.ucla.edu/~guyvdb/code/
 
 https://github.com/UCLA-StarAI
