@@ -57,11 +57,17 @@ https://github.com/NACLab/ngc-learn
 
 
 
-
+tractable probabilistic models ++ RL
 
 概率 易处理概率网络  tractable probabilistic models   bayesan code：
 
-https://github.com/gengala/pic
+https://github.com/sahilsid/probabilistic-flow-circuits
+
+https://github.com/pedrozudo/ProbabilisticNeuralCircuits
+
+https://github.com/gengala/pic  VAE
+
+https://github.com/ml-research/CharacteristicCircuits
 
 https://web.cs.ucla.edu/~guyvdb/code/
 
