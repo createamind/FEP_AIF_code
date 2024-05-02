@@ -56,6 +56,10 @@ https://github.com/NeuromorphicComputing/SoftHebb
 https://github.com/NACLab/ngc-learn
 
 
+KAN：
+
+https://github.com/KindXiaoming/pykan
+
 
 tractable probabilistic models ++ RL
 
