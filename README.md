@@ -37,6 +37,15 @@ https://github.com/vislearn/FFF
 
 https://github.com/vislearn/FFF
 
+特征函数
+
+https://github.com/Flo771994/charfctgen/ 
+
+https://github.com/ml-research/CharacteristicCircuits
+
+https://github.com/sahilsid/probabilistic-flow-circuits
+
+
 
 
 AIF mnist：
