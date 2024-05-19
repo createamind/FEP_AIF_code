@@ -29,13 +29,14 @@ https://priorelli.github.io/projects/
 https://priorelli.github.io/projects/6_dynamic_planning/
 
 
-Universality
+Universality NFs VAE
 
 https://github.com/vislearn/Coupling-Universality
 
 https://github.com/vislearn/FFF
 
 https://github.com/vislearn/FFF
+
 
 特征函数
 
@@ -46,6 +47,7 @@ https://github.com/ml-research/CharacteristicCircuits
 https://github.com/sahilsid/probabilistic-flow-circuits
 
 
+--------------------------------------------------------------------------
 
 
 AIF mnist：
