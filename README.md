@@ -37,6 +37,8 @@ https://github.com/vislearn/FFF
 
 https://github.com/vislearn/FFF
 
+https://github.com/johertrich/Manifold_Mixture_VAEs
+
 
 特征函数
 
