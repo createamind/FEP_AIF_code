@@ -37,6 +37,9 @@ https://github.com/vislearn/FFF
 
 https://github.com/vislearn/FFF
 
+
+https://github.com/k-flouris/cmf/
+
 https://github.com/johertrich/Manifold_Mixture_VAEs
 
 
