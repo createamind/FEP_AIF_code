@@ -51,6 +51,10 @@ https://github.com/ml-research/CharacteristicCircuits
 
 https://github.com/sahilsid/probabilistic-flow-circuits
 
+应用：
+
+https://github.com/PrincetonLIPS/MaM
+
 
 --------------------------------------------------------------------------
 
