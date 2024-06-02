@@ -55,6 +55,14 @@ https://github.com/sahilsid/probabilistic-flow-circuits
 
 https://github.com/PrincetonLIPS/MaM
 
+https://github.com/stelzner/supair
+
+
+
+https://web.cs.ucla.edu/~guyvdb/code/
+
+https://github.com/UCLA-StarAI
+
 
 --------------------------------------------------------------------------
 
