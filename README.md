@@ -63,39 +63,12 @@ https://web.cs.ucla.edu/~guyvdb/code/
 
 https://github.com/UCLA-StarAI
 
+https://github.com/TensorBFS/TensorInference.jl
 
 --------------------------------------------------------------------------
 
 
-AIF mnist：
 
-https://github.com/pl-robotdecision/tutorials-active-inference/blob/main/solutions/2_FEP_PixelAI_MNIST_sol.ipynb
-
-
-hebbian   mnist bio：
-
-https://github.com/neurophysics-cnrsthales/unsupervised-target
-
-https://github.com/NeuromorphicComputing/stpn
-
-softhebb  
-
-https://github.com/NeuromorphicComputing/SoftHebb
-
-
-
-
-
-neural 神经元模拟 ：
-
-https://github.com/NeuromorphicComputing/SoftHebb
-
-https://github.com/NACLab/ngc-learn
-
-
-KAN：
-
-https://github.com/KindXiaoming/pykan
 
 
 tractable probabilistic models ++ RL
@@ -144,8 +117,37 @@ https://juliareinforcementlearning.org/
 
 https://github.com/jonathan-laurent/AlphaZero.jl
 
+https://github.com/thu-ml/tianshou
+
+
+
+AIF mnist：
+
+https://github.com/pl-robotdecision/tutorials-active-inference/blob/main/solutions/2_FEP_PixelAI_MNIST_sol.ipynb
+
+
+hebbian   mnist bio：
+
+https://github.com/neurophysics-cnrsthales/unsupervised-target
+
+https://github.com/NeuromorphicComputing/stpn
+
+softhebb  
+
+https://github.com/NeuromorphicComputing/SoftHebb
 
 
 
 
+
+neural 神经元模拟 ：
+
+https://github.com/NeuromorphicComputing/SoftHebb
+
+https://github.com/NACLab/ngc-learn
+
+
+KAN：
+
+https://github.com/KindXiaoming/pykan
 
