@@ -133,6 +133,13 @@ https://github.com/NeuromorphicComputing/stpn
 
 
 
+Hopfield Models hebbian
+
+https://github.com/MAGICS-LAB/UHop
+
+
+
+
 neural 神经元模拟 ：
 
 https://github.com/NACLab/ngc-learn
