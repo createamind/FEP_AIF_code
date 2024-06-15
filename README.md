@@ -61,7 +61,7 @@ https://github.com/Flo771994/charfctgen/
 
 https://github.com/PrincetonLIPS/MaM
 
-https://github.com/stelzner/supair
+https://github.com/stelzner/supair   https://github.com/akosiorek/sqair
 
 
 
