@@ -74,6 +74,16 @@ https://github.com/TensorBFS/TensorInference.jl
 --------------------------------------------------------------------------
 
 
+symbol：
+
+https://github.com/IBM/learn-vector-symbolic-architectures-rule-formulations
+
+https://github.com/IBM/neuro-vector-symbolic-architectures
+
+[Hyperdimensional computing with holographic and adaptive encoder  ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11037243/)
+
+
+
 
 
 概率 易处理概率网络  
@@ -95,14 +105,6 @@ https://github.com/ml-research/PWN
 
 
 
-
-
-
-symbol：
-
-https://github.com/IBM/learn-vector-symbolic-architectures-rule-formulations
-
-https://github.com/IBM/neuro-vector-symbolic-architectures
 
 
 
