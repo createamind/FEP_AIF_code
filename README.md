@@ -35,9 +35,7 @@ Universality NFs VAE
 
 https://github.com/vislearn/Coupling-Universality
 
-https://github.com/vislearn/FFF
-
-https://github.com/vislearn/FFF
+https://github.com/vislearn/FFF   https://github.com/vislearn/FFF
 
 
 https://github.com/k-flouris/cmf/ Canonical Manifold Flows
@@ -59,15 +57,11 @@ https://github.com/Flo771994/charfctgen/
 
 应用：
 
-https://github.com/PrincetonLIPS/MaM
-
-https://github.com/stelzner/supair   https://github.com/akosiorek/sqair
+https://github.com/PrincetonLIPS/MaM          https://github.com/stelzner/supair   https://github.com/akosiorek/sqair
 
 
 
-https://web.cs.ucla.edu/~guyvdb/code/
-
-https://github.com/UCLA-StarAI
+https://web.cs.ucla.edu/~guyvdb/code/        https://github.com/UCLA-StarAI
 
 https://github.com/TensorBFS/TensorInference.jl
 
@@ -76,19 +70,15 @@ https://github.com/TensorBFS/TensorInference.jl
 
 symbol：
 
-https://github.com/IBM/learn-vector-symbolic-architectures-rule-formulations
+https://github.com/IBM/learn-vector-symbolic-architectures-rule-formulations  https://github.com/IBM/neuro-vector-symbolic-architectures
 
-https://github.com/IBM/neuro-vector-symbolic-architectures
-
-[Hyperdimensional computing with holographic and adaptive encoder  ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11037243/)
-
-Generalized Holographic Reduced Representations2405.09689v1 extend FHRR
+[Hyperdimensional computing with holographic and adaptive encoder  ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11037243/)          Generalized Holographic Reduced Representations2405.09689v1 extend FHRR
 
 torch-HD  spaun2.0
 
-https://github.com/you68681/GPAR
+https://github.com/you68681/GPAR  https://github.com/khalil-research/ARGA-AAAI23
 
-https://github.com/mxbi/dreamcoder-arc
+https://github.com/sebferre/ARC-MDL         https://github.com/mxbi/dreamcoder-arc
 
 
 
