@@ -84,6 +84,8 @@ https://github.com/IBM/neuro-vector-symbolic-architectures
 
 Generalized Holographic Reduced Representations2405.09689v1 extend FHRR
 
+torch-HD  spaun2.0
+
 https://github.com/you68681/GPAR
 
 https://github.com/mxbi/dreamcoder-arc
