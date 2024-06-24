@@ -82,6 +82,11 @@ https://github.com/IBM/neuro-vector-symbolic-architectures
 
 [Hyperdimensional computing with holographic and adaptive encoder  ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11037243/)
 
+Generalized Holographic Reduced Representations2405.09689v1 extend FHRR
+
+https://github.com/you68681/GPAR
+
+https://github.com/mxbi/dreamcoder-arc
 
 
 
