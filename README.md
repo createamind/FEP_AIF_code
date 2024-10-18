@@ -4,6 +4,17 @@ Automatic Bayesian Inference through Reactive Message Passing
 
 https://github.com/ReactiveBayes/RxInfer.jl
 
+https://github.com/NACLab/robust-active-inference
+
+
+symbol：
+
+https://github.com/scallop-lang/scallop
+
+https://github.com/sair-lab/iSeries
+
+ARC： https://www.kaggle.com/competitions/arc-prize-2024/discussion/514625
+
 
 
 [On efficient computation in active inference： minigrid：  ](https://github.com/aswinpaul/dpefe_2023)
@@ -68,7 +79,6 @@ https://github.com/TensorBFS/TensorInference.jl
 --------------------------------------------------------------------------
 
 
-symbol：
 
 https://github.com/IBM/learn-vector-symbolic-architectures-rule-formulations  https://github.com/IBM/neuro-vector-symbolic-architectures
 
